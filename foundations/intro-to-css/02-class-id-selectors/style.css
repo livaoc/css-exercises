@@ -1,0 +1,20 @@
+.odd, .odd24 {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd24 {
+    font-size:24px;
+}
+
+#el2 {
+    background-color: #ffffff;
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#el4 {
+    background-color: #adff2f;
+    font-weight: bold;
+    font-size: 24px;
+}
